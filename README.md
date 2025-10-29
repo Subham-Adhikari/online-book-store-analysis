@@ -1,2 +1,3 @@
 # online-book-store-analysis
-hello
+Data analysis on a online book store .
+work in progress
