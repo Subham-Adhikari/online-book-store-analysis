@@ -1,3 +1,3 @@
 # online-book-store-analysis
-Data analysis on a online book store .
-work in progress
+Data analysis of a online book store data.  
+*Work in progress.*
